@@ -4,169 +4,241 @@
 
 ### Network · Cloud · Security · Automation
 
-Building secure, resilient, and automated infrastructure for modern enterprises.
+Designing secure, resilient, and automated digital foundations  
+for modern enterprise platforms.
 
-[![Website](https://img.shields.io/badge/Portfolio-nabilnet.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://nabilnet.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-NabilNet-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<br/>
+
+<a href="https://nabilnet.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0A84FF?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/NabilNet">
+  <img src="https://img.shields.io/badge/GitHub-NabilNet-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## About
 
-I am a **Senior Network, Cloud, Security, and Automation Engineer** based in Paris, focused on designing modern infrastructure platforms that are secure, scalable, resilient, and automation-ready.
+I am a **Senior Network, Cloud, Security & Automation Engineer** based in Paris.
 
-My work combines **enterprise networking**, **multi-cloud architecture**, **Zero Trust security**, **datacenter modernization**, and **NetDevOps automation** to help organizations move from traditional infrastructure to intelligent, cloud-ready operating models.
+I design and modernize enterprise environments by connecting **network architecture**, **cloud platforms**, **security foundations**, and **automation practices** into reliable digital systems.
+
+My work focuses on building platforms that are simple to operate, secure by design, resilient by default, and ready to scale.
+
+<br/>
+
+> **Simple to operate. Secure by design. Resilient by default. Ready to scale.**
+
+<br/>
 
 ---
+
+<br/>
 
 ## Core Expertise
 
-```txt
-Network Architecture     LAN · WAN · SD-WAN · BGP · OSPF · MPLS · EVPN-VXLAN
-Cloud Infrastructure     Azure · AWS · GCP · Hybrid Cloud · Multi-Cloud
-Security Engineering     Zero Trust · NAC · VPN · NGFW · Segmentation
-Automation & NetDevOps   Ansible · Python · NetBox · Docker · Git · APIs
-Datacenter               Cisco Nexus · ACI · Spine-Leaf · F5 · High Availability
-Operations               Monitoring · Telemetry · Reliability · Documentation
-```
+<table>
+<tr>
+<td width="50%">
+
+### Network Architecture
+
+Enterprise networking, routing, switching, segmentation, SD-WAN, LAN/WAN, BGP, OSPF, MPLS, EVPN-VXLAN.
+
+</td>
+<td width="50%">
+
+### Cloud & Hybrid Platforms
+
+Azure, AWS, GCP, hybrid cloud, cloud connectivity, multi-cloud architecture, and resilient cloud networking.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Security by Design
+
+Zero Trust, NAC, VPN, NGFW, firewall architecture, secure remote access, and segmentation.
+
+</td>
+<td width="50%">
+
+### Automation & NetDevOps
+
+Ansible, Python, NetBox, Docker, Git, APIs, infrastructure as code, and repeatable operational workflows.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Data Center Modernization
+
+Cisco Nexus, Cisco ACI, spine-leaf architecture, F5, high availability, and modern data center patterns.
+
+</td>
+<td width="50%">
+
+### Operational Reliability
+
+Monitoring, telemetry, documentation, resilience, availability, service continuity, and operational excellence.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## Technology Stack
+<br/>
 
-<p align="center">
+## Technology Landscape
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking-000000?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-Cloud-000000?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Cloud-000000?style=flat-square)
-![GCP](https://img.shields.io/badge/GCP-Cloud-000000?style=flat-square)
-![Palo Alto](https://img.shields.io/badge/Palo_Alto-Security-000000?style=flat-square)
-![Fortinet](https://img.shields.io/badge/Fortinet-Security-000000?style=flat-square)
-![Cisco ISE](https://img.shields.io/badge/Cisco_ISE-NAC-000000?style=flat-square)
-![Zscaler](https://img.shields.io/badge/Zscaler-Zero_Trust-000000?style=flat-square)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-000000?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Automation-000000?style=flat-square)
-![NetBox](https://img.shields.io/badge/NetBox-Source_of_Truth-000000?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-Containers-000000?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Version_Control-000000?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-000000?style=flat-square)
+<div align="center">
 
-</p>
+### Networking
 
----
+`Cisco` · `BGP` · `OSPF` · `MPLS` · `EVPN-VXLAN` · `SD-WAN` · `Cisco ACI` · `Cisco Nexus`
 
-## What I Build
+### Cloud
 
-```mermaid
-mindmap
-  root((Modern Infrastructure))
-    Network
-      SD-WAN
-      Datacenter
-      BGP
-      EVPN-VXLAN
-    Cloud
-      Azure
-      AWS
-      GCP
-      Hybrid Cloud
-    Security
-      Zero Trust
-      NAC
-      VPN
-      Segmentation
-    Automation
-      Ansible
-      Python
-      NetBox
-      APIs
-    Operations
-      Monitoring
-      Telemetry
-      Reliability
-```
+`Azure` · `AWS` · `GCP` · `Hybrid Cloud` · `Multi-Cloud Networking` · `Cloud Connectivity`
+
+### Security
+
+`Cisco ISE` · `Palo Alto` · `Fortinet` · `Check Point` · `Zscaler` · `Zero Trust` · `VPN` · `NAC`
+
+### Automation
+
+`Ansible` · `Python` · `NetBox` · `Docker` · `Git` · `REST APIs` · `Kubernetes`
+
+</div>
+
+<br/>
 
 ---
+
+<br/>
 
 ## Selected Work
 
+<table>
+<tr>
+<td width="50%">
+
 ### Multi-Cloud Disaster Recovery
 
-Designed a resilient Disaster Recovery architecture across **Azure and AWS**, with automated failover workflows using **Python** and **Ansible**.
+Designed resilient disaster recovery patterns across **Azure and AWS**, supporting failover, restoration, continuity, and business-critical availability.
 
-`Cloud Resilience` · `Automation` · `Business Continuity` · `Failover Orchestration`
+`Cloud Resilience` · `Automation` · `Business Continuity` · `Failover`
 
----
+</td>
+<td width="50%">
 
 ### Network Automation Platform
 
-Introduced NetDevOps practices using **Ansible, NetBox, Docker, Git, Python, and REST APIs** to improve operational consistency and reduce manual effort.
+Introduced NetDevOps practices using **Ansible, NetBox, Docker, Git, Python, and APIs** to improve consistency and reduce manual operations.
 
-`NetDevOps` · `Infrastructure as Code` · `Automation` · `Operational Excellence`
+`NetDevOps` · `Automation` · `Source of Truth` · `Operational Excellence`
 
----
+</td>
+</tr>
 
-### Zero Trust Infrastructure
+<tr>
+<td width="50%">
+
+### Zero Trust Network Architecture
 
 Supported secure access, segmentation, NAC, VPN, and Zero Trust network patterns across enterprise environments.
 
 `Zero Trust` · `Cisco ISE` · `Zscaler` · `Segmentation` · `Secure Access`
 
+</td>
+<td width="50%">
+
+### Data Center Modernization
+
+Designed and supported modern data center architectures using **Cisco Nexus, ACI, F5, spine-leaf, and EVPN-VXLAN**.
+
+`Data Center` · `High Availability` · `Scalability` · `Secure Networking`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ---
 
-### Datacenter Modernization
-
-Designed and supported modern datacenter architectures using **Cisco Nexus, ACI, Spine-Leaf, F5, and EVPN-VXLAN**.
-
-`Datacenter` · `High Availability` · `Scalability` · `Secure Networking`
-
----
+<br/>
 
 ## Experience Snapshot
 
 | Organization | Role | Focus |
 |---|---|---|
-| OECD | Senior Network & Cloud Engineer | Cloud, Network, Security, Automation |
-| ABMC | Network & Cloud Engineer | Azure Gov, SD-WAN, Zscaler, Security |
-| eDreams ODIGEO | Network & Cloud Engineer | Multi-Cloud, GCP, Kubernetes |
-| OECD | Senior Network & Multimedia Engineer | ACI, ISE, F5, Wireless |
-| Subsea 7 | Network & Telecom Engineer | Global Network, MPLS, VSAT, UC |
+| **OECD-OCDE** | Senior Network & Cloud Engineer | Cloud, Network, Security, Automation |
+| **ABMC** | Network & Cloud Engineer | Azure Gov, SD-WAN, Zscaler, Security |
+| **eDreams ODIGEO** | Network & Cloud Engineer | Multi-cloud, GCP, Kubernetes |
+| **OECD-OCDE** | Senior Network & Multimedia Engineer | ACI, ISE, F5, Wireless |
+| **Subsea 7** | Network & Telecommunication Engineer | Global Network, MPLS, VSAT, UC |
+
+<br/>
 
 ---
+
+<br/>
 
 ## Professional Focus
 
-```txt
-Network Automation
-Zero Trust Architecture
-Multi-Cloud Networking
-Cloud Security
-Datacenter Modernization
-Infrastructure as Code
-AI-driven Operations
-Observability & Telemetry
-```
+<div align="center">
+
+`Network Automation` · `Zero Trust Architecture` · `Multi-Cloud Networking`  
+`Cloud Security` · `Data Center Modernization` · `Infrastructure as Code`  
+`Observability & Telemetry` · `AI-driven Operations` · `Operational Resilience`
+
+</div>
+
+<br/>
 
 ---
 
-## Philosophy
+<br/>
 
-> Build infrastructure that is simple to operate, secure by design, resilient by default, and ready to scale.
+## Engineering Philosophy
 
----
+Good engineering is not only about complexity.
+
+It is about building systems that are clear, secure, resilient, measurable, and easy to operate.
 
 <div align="center">
 
+<br/>
+
 ### Secure. Automated. Resilient. Cloud-ready.
 
-`Network` · `Cloud` · `Security` · `Automation` · `NetDevOps` · `Zero Trust`
+**Network · Cloud · Security · Automation · NetDevOps · Resilience**
 
-<br>
+<br/>
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-NabilNet-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://nabilnet.github.io/)
+<a href="https://nabilnet.github.io">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-nabilnet.github.io-0A84FF?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
 
 </div>
