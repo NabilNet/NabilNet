@@ -2,7 +2,12 @@
 
 # NabilNet
 
-### Network · Cloud · Security · Automation
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=0A84FF&center=true&vCenter=true&width=650&lines=Network+%C2%B7+Cloud+%C2%B7+Security+%C2%B7+Automation;Designing+secure+and+resilient+digital+platforms;Building+automation-ready+enterprise+environments" alt="Typing animation" />
+
+<br/>
+<br/>
 
 Designing secure, resilient, and automated digital foundations  
 for modern enterprise platforms.
@@ -229,6 +234,11 @@ It is about building systems that are clear, secure, resilient, measurable, and 
 
 <div align="center">
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=1500&color=8E8E93&center=true&vCenter=true&width=700&lines=Simple+to+operate.;Secure+by+design.;Resilient+by+default.;Ready+to+scale." alt="Engineering philosophy animation" />
+
+<br/>
 <br/>
 
 ### Secure. Automated. Resilient. Cloud-ready.
